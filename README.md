@@ -1,3 +1,3 @@
-# Laboratory-Activity-2-Python-OOP
-# Laboratory-Activity-2-Python-OOP
-# Laboratory-Activity-2-Python-OOP
+Simple Ordering System: Python Project
+
+(Question in .txt file)
